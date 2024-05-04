@@ -1,1 +1,2 @@
 # EventWhiz
+Event Management System
